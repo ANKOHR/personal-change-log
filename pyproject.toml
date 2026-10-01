@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "personal-change-log"
+version = "0.1.0"
+description = "A deterministic timeline of explicitly recorded meaningful changes"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+pcl = "personal_change_log.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["personal_change_log*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

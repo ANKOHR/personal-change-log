@@ -1,0 +1,6 @@
+# SYNTHETIC hand-written example, not Henry's real history
+{"id":"example-1","date":"2026-09-01","project":"school","kind":"milestone","summary":"Illustrative: completed a first draft","meaningful":true,"synthetic":true,"entered_by":"example-author"}
+{"id":"example-2","date":"2026-09-02","project":"outreach","kind":"decision","summary":"Illustrative: chose a narrower audience","meaningful":true,"synthetic":true,"entered_by":"example-author"}
+{"id":"example-3","date":"2026-09-03","project":"builds","kind":"improvement","summary":"Illustrative: repeated a routine check","meaningful":false,"synthetic":true,"entered_by":"example-author"}
+{"id":"example-4","date":"2026-09-04","project":"applications","kind":"setback","summary":"Illustrative: missed a practice deadline","meaningful":true,"synthetic":true,"entered_by":"example-author"}
+{"id":"example-5","date":"2026-09-05","project":"school","kind":"improvement","summary":"Illustrative: routine revision session","meaningful":false,"synthetic":true,"entered_by":"example-author"}
